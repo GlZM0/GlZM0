@@ -10,8 +10,6 @@
 [<img align="left" alt="GIZMO | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br />
 
-##
-
 ### 🛠️ Languages and Tools
 
 [<img align="left" alt="Intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />](https://www.jetbrains.com/idea/)
@@ -24,8 +22,7 @@
 [<img align="left" alt="JUnit" width="26px" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" />](https://github.com)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://docs.microsoft.com/en-us/windows/terminal/)
 <br />
-
-##
+<br />
 
 ### 💻 Github stats
 <a href="https://github.com/GlZM0">
