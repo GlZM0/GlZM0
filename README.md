@@ -7,8 +7,8 @@
 [<img align="left" alt="GIZMO | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="GIZMO | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GIZMO | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="GIZMO | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br />
 <br />
 
 ### ‍💻 Languages and Tools:
@@ -24,35 +24,10 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://docs.microsoft.com/en-us/windows/terminal/)
 
 <br />
-<br />
 
-### My Life here :smile:
-
-<details>
-
-<summary>:raising_hand_man: Info About Me</summary>
-
-### I'm a young polish developer
-
-- 🔭 I’m currently working on control xiaomi yellight from my own kotlin app
-- 🌱 I’m currently learning flutter
-- 🏁 I just finished my [Medicines App in Flutter](https://github.com/F-Y-E-F/Medicine-App-In-Flutter)
-- 📚 I'd like to learn Swift in the future
-- 📫 How to reach me: contact me on every social media
-- 💬 Ask me about mobile programming
-- 😄 Pronouns: Good mood and learning new things
-- ⚡ Fun fact: I love cats 😺
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glzm0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/gizmus3
 [instagram]: https://www.instagram.com/mefju_ejcz/
 [linkedin]: https://www.linkedin.com/in/mateusz-hajduczek-50394a212/
-[facebook]: 
+[facebook]: https://www.facebook.com/mateusz.hajduczek.948
