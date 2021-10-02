@@ -28,6 +28,9 @@
 
 ### 💻 Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glzm0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/GlZM0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glzm0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glzm0&layout=compact&langs_count=7&theme=dracula"/>
 
 [twitter]: https://twitter.com/gizmus3
 [instagram]: https://www.instagram.com/mefju_ejcz/
