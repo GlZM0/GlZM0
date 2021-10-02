@@ -2,6 +2,8 @@
 
 ## I'm Mateusz and I'm a young polish java developer.
 
+##
+
 ### Contact with me
 
 [<img align="left" alt="GIZMO | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -9,7 +11,7 @@
 [<img align="left" alt="GIZMO | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="GIZMO | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br />
+##
 
 ### 🛠️ Languages and Tools
 
@@ -23,13 +25,12 @@
 [<img align="left" alt="JUnit" width="26px" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" />](https://github.com)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://docs.microsoft.com/en-us/windows/terminal/)
 
-<br />
-<br />
+##
 
 ### 💻 Github stats
 <a href="https://github.com/GlZM0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glzm0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glzm0&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glzm0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glzm0&layout=compact&langs_count=7&theme=dracula"/>
 
 [twitter]: https://twitter.com/gizmus3
 [instagram]: https://www.instagram.com/mefju_ejcz/
