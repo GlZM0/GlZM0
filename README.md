@@ -20,6 +20,7 @@
 [<img align="left" alt="JUnit" width="26px" src="https://image.pngaaa.com/551/4725551-middle.png" />](https://www.git-scm.com)
 [<img align="left" alt="JUnit" width="26px" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" />](https://github.com)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://docs.microsoft.com/en-us/windows/terminal/)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 <br />
 <br />
 
