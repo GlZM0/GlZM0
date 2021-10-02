@@ -2,7 +2,7 @@
 
 ## I'm Mateusz and I'm a young polish java developer.
 
-### Contact with me:
+### Contact with me
 
 [<img align="left" alt="GIZMO | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="GIZMO | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -11,7 +11,7 @@
 
 <br />
 
-### ‍💻 Languages and Tools:
+### 🛠️ Languages and Tools
 
 [<img align="left" alt="Intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />](https://www.jetbrains.com/idea/)
 [<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" />](https://www.java.com/pl/)
@@ -26,6 +26,7 @@
 <br />
 <br />
 
+### 💻 Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glzm0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/gizmus3
