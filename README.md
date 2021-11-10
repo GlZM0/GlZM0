@@ -17,8 +17,9 @@
 [<img align="left" alt="Hibernate" width="26px" src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/hibernate_bez_tla.png?1614088813" />](https://hibernate.org)
 [<img align="left" alt="Maven" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />](https://maven.apache.org)
 [<img align="left" alt="JUnit" width="26px" src="https://assets.website-files.com/5f10ed4c0ebf7221fb5661a5/5f23a7a9b70a249eed481481_Junit.png" />](https://junit.org/junit5/)
-[<img align="left" alt="JUnit" width="26px" src="https://image.pngaaa.com/551/4725551-middle.png" />](https://www.git-scm.com)
-[<img align="left" alt="JUnit" width="26px" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" />](https://github.com)
+[<img align="left" alt="phpstorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" />](https://www.jetbrains.com/phpstorm/)
+[<img align="left" alt="git" width="26px" src="https://image.pngaaa.com/551/4725551-middle.png" />](https://www.git-scm.com)
+[<img align="left" alt="github" width="26px" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" />](https://github.com)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://docs.microsoft.com/en-us/windows/terminal/)
 <br />
 <br />
