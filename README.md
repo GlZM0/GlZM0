@@ -14,7 +14,7 @@
 [<img align="left" alt="Intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />](https://www.jetbrains.com/idea/)
 [<img align="left" alt="phpstorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" />](https://www.jetbrains.com/phpstorm/)
 [<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" />](https://www.java.com/pl/)
-[<img align="left" alt="php" width="26px" src="https://pl.wikipedia.org/wiki/PHP#/media/Plik:PHP-logo.svg" />](https://www.php.net)
+[<img align="left" alt="php" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />](https://www.php.net)
 [<img align="left" alt="SpringBoot" width="26px" src="https://external-preview.redd.it/euCwM2qWAxCAHDHQLm0qBKB1ZTmKXcWZd4IIV-5BA74.jpg?auto=webp&s=8109bafd53dfef05f361a69123b4ea6ac96016c8" />](https://start.spring.io)
 [<img align="left" alt="Hibernate" width="26px" src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/hibernate_bez_tla.png?1614088813" />](https://hibernate.org)
 [<img align="left" alt="Maven" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />](https://maven.apache.org)
