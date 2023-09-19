@@ -29,5 +29,3 @@
 <a href="https://github.com/GlZM0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glzm0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=8a33e1"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glzm0&layout=compact&langs_count=7&theme=dracula&title_color=8a33e1"/>
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
